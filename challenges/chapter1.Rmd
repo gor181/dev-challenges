@@ -11,7 +11,7 @@ Which symbol marks the beginning of a comment in R?
 *** =options1
 - `%`
 - `%*`
-- [`#`]
+- `#`
 - `@`
 - `$`
 - `*`
